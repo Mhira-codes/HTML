@@ -1,0 +1,88 @@
+                                                            * {
+                                                                margin: 0;
+                                                                padding: 0;
+                                                            }
+                                                            
+                                                            .title {
+                                                                display: flex;
+                                                                width: 100%;
+                                                                margin-top: 2%;
+                                                                font-size: 18px;
+                                                            }
+                                                            
+                                                            li {
+                                                                list-style-type: none;
+                                                                display: inline;
+                                                                margin-left: 16px;
+                                                                font-weight: bold;
+                                                            }
+                                                            
+                                                            .web-name {
+                                                                width: 70%;
+                                                                margin-left: 6%;
+                                                                color: tomato;
+                                                                font-size: 27px;
+                                                                text-shadow: 2px 2px turquoise;
+                                                                font-weight: bolder;
+                                                            }
+                                                            
+                                                            .heading {
+                                                                width: 35%;
+                                                                display: inline;
+                                                                color: maroon;
+                                                                text-shadow: sandybrown 2px 2px;
+                                                            }
+                                                            
+                                                            body {
+                                                                background: url(/group.jpg);
+                                                                background-repeat: no-repeat;
+                                                                background-size: cover;
+                                                            }
+                                                            
+                                                            #home-tab {
+                                                                color: maroon;
+                                                                text-shadow: sandybrown 2px 2px;
+                                                            }
+                                                            
+                                                            .aim {
+                                                                position: absolute;
+                                                                top: 37%;
+                                                                left: 21%;
+                                                                text-align: center;
+                                                            }
+                                                            
+                                                            h1 {
+                                                                margin-bottom: 5%;
+                                                                font-size: 47px;
+                                                                color: rgb(77, 40, 40);
+                                                                font-weight: bold;
+                                                            }
+                                                            
+                                                            p {
+                                                                font-size: 18px;
+                                                                font-weight: bold;
+                                                                color: darkslategray;
+                                                            }
+                                                            
+                                                            button {
+                                                                margin-top: 5%;
+                                                                width: 200px;
+                                                                height: 60px;
+                                                                border-radius: 40px;
+                                                                font-size: 18px;
+                                                                font-weight: bold;
+                                                                outline: none;
+                                                                border: none;
+                                                                background-color: slategray;
+                                                                color: darkslategray;
+                                                                position: absolute;
+                                                                left: 43%;
+                                                            }
+                                                            
+                                                            hr {
+                                                                width: 45px;
+                                                                position: absolute;
+                                                                left: 50%;
+                                                                margin-top: 2%;
+                                                                border: 1px solid crimson;
+                                                            }
