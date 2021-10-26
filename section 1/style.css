@@ -1,0 +1,82 @@
+    .container {
+        display: flex;
+        width: 100%;
+        margin-top: 3%;
+    }
+    
+    li {
+        list-style: none;
+        display: inline;
+        margin-left: 3%;
+        font-size: 18px;
+        font-weight: bold;
+        color: lightslategrey;
+    }
+    
+    .webname {
+        width: 70%;
+    }
+    
+    .titles {
+        width: 30%;
+        margin-top: 1.5%;
+    }
+    
+    h1 {
+        margin-left: 7%;
+        color: darksalmon;
+        text-shadow: 2px 2px rgb(88, 165, 241);
+    }
+    
+    #home {
+        color: darksalmon;
+    }
+    
+    .main {
+        text-align: center;
+        margin-top: 10%;
+    }
+    
+    hr {
+        width: 40px;
+        border: 1px solid slateblue;
+        position: absolute;
+        left: 50%;
+        margin-top: 2%;
+    }
+    
+    h2 {
+        font-size: 45px;
+        color: darkslategray;
+    }
+    
+    p {
+        letter-spacing: 1.2px;
+        margin-top: 5%;
+    }
+    
+    button {
+        margin-top: 2%;
+        width: 200px;
+        height: 50px;
+        border-radius: 50px;
+        font-size: 25px;
+        outline: none;
+        background-color: white;
+        color: deeppink;
+        border-top: none;
+        border-bottom: 2px solid deeppink;
+        border-left: 1px solid deeppink;
+        border-right: 1px solid deeppink;
+    }
+    
+    footer {
+        background-color: deeppink;
+        margin-top: 6%;
+        padding: 4%;
+    }
+    
+    * {
+        margin: 0;
+        padding: 0;
+    }
